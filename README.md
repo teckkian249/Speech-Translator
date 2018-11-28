@@ -1,8 +1,9 @@
 # Introduction
 Simple end-to-end python implementation of speech translation using various packages
 
-# Packages Used
-SpeechRecognition
-gTTS
-py-translator
-playsound
+# Getting Started
+You will need to install the following python packages 
+* SpeechRecognition
+* gTTS
+* py-translator
+* playsound
